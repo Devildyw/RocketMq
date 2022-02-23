@@ -4,6 +4,10 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/rocket-01-pre/pom.xml" />
+        <option value="$PROJECT_DIR$/rocketMQ-02-test/pom.xml" />
+        <option value="$PROJECT_DIR$/rocketMQ-03-cluster/pom.xml" />
+        <option value="$PROJECT_DIR$/rocketMQ-04-Async/pom.xml" />
+        <option value="$PROJECT_DIR$/rocketMQ-05-Filter/pom.xml" />
       </list>
     </option>
   </component>

@@ -7,11 +7,19 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="rocketMQ-02-test" />
+        <module name="rocketMQ-04-Async" />
+        <module name="rocketMQ-05-Filter" />
         <module name="rocket-01-pre" />
+        <module name="rocketMQ-03-cluster" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8">
       <module name="rocket-01-pre" target="1.5" />
+      <module name="rocketMQ-02-test" target="8" />
+      <module name="rocketMQ-03-cluster" target="8" />
+      <module name="rocketMQ-04-Async" target="8" />
+      <module name="rocketMQ-05-Filter" target="6" />
     </bytecodeTargetLevel>
   </component>
 </project>
