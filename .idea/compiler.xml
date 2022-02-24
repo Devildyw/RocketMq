@@ -8,10 +8,13 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="rocketMQ-02-test" />
-        <module name="rocketMQ-04-Async" />
         <module name="rocketMQ-05-Filter" />
+        <module name="RocketMQ-6-Springboot" />
         <module name="rocket-01-pre" />
         <module name="rocketMQ-03-cluster" />
+        <module name="rocketMQ-07-order" />
+        <module name="rocketMQ-04-Async" />
+        <module name="rocketMQ-08-trans" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8">
@@ -20,6 +23,14 @@
       <module name="rocketMQ-03-cluster" target="8" />
       <module name="rocketMQ-04-Async" target="8" />
       <module name="rocketMQ-05-Filter" target="6" />
+      <module name="rocketMQ-07-order" target="8" />
+      <module name="rocketMQ-08-trans" target="8" />
+      <module name="RocketMQ-6-Springboot" target="1.8" />
     </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="RocketMQ-6-Springboot" options="-parameters" />
+    </option>
   </component>
 </project>

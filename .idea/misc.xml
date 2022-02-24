@@ -8,6 +8,9 @@
         <option value="$PROJECT_DIR$/rocketMQ-03-cluster/pom.xml" />
         <option value="$PROJECT_DIR$/rocketMQ-04-Async/pom.xml" />
         <option value="$PROJECT_DIR$/rocketMQ-05-Filter/pom.xml" />
+        <option value="$PROJECT_DIR$/RocketMQ-6-Springboot/pom.xml" />
+        <option value="$PROJECT_DIR$/rocketMQ-07-order/pom.xml" />
+        <option value="$PROJECT_DIR$/rocketMQ-08-trans/pom.xml" />
       </list>
     </option>
   </component>

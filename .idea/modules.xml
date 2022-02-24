@@ -2,11 +2,14 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/RocketMQ-6-Springboot/RocketMQ-6-Springboot.iml" filepath="$PROJECT_DIR$/RocketMQ-6-Springboot/RocketMQ-6-Springboot.iml" />
       <module fileurl="file://$PROJECT_DIR$/rocket-01-pre/rocket-01-pre.iml" filepath="$PROJECT_DIR$/rocket-01-pre/rocket-01-pre.iml" />
       <module fileurl="file://$PROJECT_DIR$/rocketMQ-02-test/rocketMQ-02-test.iml" filepath="$PROJECT_DIR$/rocketMQ-02-test/rocketMQ-02-test.iml" />
       <module fileurl="file://$PROJECT_DIR$/rocketMQ-03-cluster/rocketMQ-03-cluster.iml" filepath="$PROJECT_DIR$/rocketMQ-03-cluster/rocketMQ-03-cluster.iml" />
       <module fileurl="file://$PROJECT_DIR$/rocketMQ-04-Async/rocketMQ-04-Async.iml" filepath="$PROJECT_DIR$/rocketMQ-04-Async/rocketMQ-04-Async.iml" />
       <module fileurl="file://$PROJECT_DIR$/rocketMQ-05-Filter/rocketMQ-05-Filter.iml" filepath="$PROJECT_DIR$/rocketMQ-05-Filter/rocketMQ-05-Filter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rocketMQ-07-order/rocketMQ-07-order.iml" filepath="$PROJECT_DIR$/rocketMQ-07-order/rocketMQ-07-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rocketMQ-08-trans/rocketMQ-08-trans.iml" filepath="$PROJECT_DIR$/rocketMQ-08-trans/rocketMQ-08-trans.iml" />
     </modules>
   </component>
 </project>
