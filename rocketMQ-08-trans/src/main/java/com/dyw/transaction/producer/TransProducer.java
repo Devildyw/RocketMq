@@ -30,7 +30,7 @@ public class TransProducer {
                 //LocalTransactionState.ROLLBACK_MESSAGE 表示事务回滚 这时broker就会删除掉half消息 消费者接收不到
                 //如果是LocalTransactionState.COMMIT_MESSAGE 表示提交消息 这时broker就会提交half消息 消费能接收
                 //LocalTransactionState.UNKNOW 事务结果未知 执行事务补偿过程 即broker主动询问生产者事务结果
-                return LocalTransactionState.UNKNOW;
+                return LocalTransactionState.COMMIT_MESSAGE;
             }
             //检查本地事务 这就是事务补偿过程
             @Override

@@ -20,7 +20,7 @@ public class Consumer {
 
         //2.从哪里收
         //与生产者一样 消费者 也许要去name Server中获得对应broker的地址去获得消息
-        pushConsumer.setNamesrvAddr("localhost:9876");
+        pushConsumer.setNamesrvAddr("lovezoe.top:9876");
 
         //3.监听那个消息队列
         //设置监听队列 subscribe:订阅 指定主题 和订阅表达式 "*"表示订阅主题中的所有

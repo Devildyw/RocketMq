@@ -20,7 +20,7 @@ public class Producer {
 
         //2.发给谁
         //发送给命名服务器 通过Name Server分配Brokerip 再由生产者发送给broker
-        producer.setNamesrvAddr("localhost:9876");
+        producer.setNamesrvAddr("lovezoe.top:9876");
 
         //启动连接
         producer.start();
