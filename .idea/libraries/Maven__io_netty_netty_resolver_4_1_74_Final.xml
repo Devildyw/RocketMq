@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Maven: io.netty:netty-resolver:4.1.74.Final">
+    <ANNOTATIONS>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jetbrains/externalAnnotations/io/netty/netty-resolver/4.1.27.Final-an1/netty-resolver-4.1.27.Final-an1-annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Maven/apache-maven-3.8.4/repository/io/netty/netty-resolver/4.1.74.Final/netty-resolver-4.1.74.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../Maven/apache-maven-3.8.4/repository/io/netty/netty-resolver/4.1.74.Final/netty-resolver-4.1.74.Final-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../Maven/apache-maven-3.8.4/repository/io/netty/netty-resolver/4.1.74.Final/netty-resolver-4.1.74.Final-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

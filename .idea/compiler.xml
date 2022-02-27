@@ -8,12 +8,16 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="rocketMQ-02-test" />
+        <module name="rocketmq-springboot-consumer" />
         <module name="rocketMQ-05-Filter" />
         <module name="RocketMQ-6-Springboot" />
         <module name="rocket-01-pre" />
+        <module name="RocketMQ-Producer-Client" />
         <module name="rocketMQ-03-cluster" />
         <module name="rocketMQ-07-order" />
         <module name="rocketMQ-04-Async" />
+        <module name="RocketMQ-Producer-Core" />
+        <module name="RocketMQ-Consumer" />
         <module name="rocketMQ-08-trans" />
       </profile>
     </annotationProcessing>
@@ -26,11 +30,21 @@
       <module name="rocketMQ-07-order" target="8" />
       <module name="rocketMQ-08-trans" target="8" />
       <module name="RocketMQ-6-Springboot" target="1.8" />
+      <module name="RocketMQ-9-Producer-Client" target="8" />
+      <module name="RocketMQ-Consumer" target="1.8" />
+      <module name="RocketMQ-Producer" target="8" />
+      <module name="RocketMQ-Producer-Client" target="8" />
+      <module name="RocketMQ-Producer-Core" target="1.8" />
+      <module name="rocketmq-springboot-consumer" target="11" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="RocketMQ-6-Springboot" options="-parameters" />
+      <module name="RocketMQ-Consumer" options="-parameters" />
+      <module name="RocketMQ-Producer-Client" options="-parameters" />
+      <module name="RocketMQ-Producer-Core" options="-parameters" />
+      <module name="rocketmq-springboot-consumer" options="-parameters" />
     </option>
   </component>
 </project>

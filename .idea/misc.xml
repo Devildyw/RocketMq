@@ -11,6 +11,10 @@
         <option value="$PROJECT_DIR$/RocketMQ-6-Springboot/pom.xml" />
         <option value="$PROJECT_DIR$/rocketMQ-07-order/pom.xml" />
         <option value="$PROJECT_DIR$/rocketMQ-08-trans/pom.xml" />
+        <option value="$PROJECT_DIR$/RocketMQ-Producer/pom.xml" />
+        <option value="$PROJECT_DIR$/RocketMQ-Producer/RocketMQ-Producer-Core/pom.xml" />
+        <option value="$PROJECT_DIR$/RocketMQ-Consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/rocketmq-springboot-consumer/pom.xml" />
       </list>
     </option>
   </component>

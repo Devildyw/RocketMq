@@ -3,6 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/RocketMQ-6-Springboot/RocketMQ-6-Springboot.iml" filepath="$PROJECT_DIR$/RocketMQ-6-Springboot/RocketMQ-6-Springboot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RocketMQ-Consumer/RocketMQ-Consumer.iml" filepath="$PROJECT_DIR$/RocketMQ-Consumer/RocketMQ-Consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RocketMQ-Producer/RocketMQ-Producer.iml" filepath="$PROJECT_DIR$/RocketMQ-Producer/RocketMQ-Producer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RocketMQ-Producer/RocketMQ-Producer-Client/RocketMQ-Producer-Client.iml" filepath="$PROJECT_DIR$/RocketMQ-Producer/RocketMQ-Producer-Client/RocketMQ-Producer-Client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RocketMQ-Producer/RocketMQ-Producer-Core/RocketMQ-Producer-Core.iml" filepath="$PROJECT_DIR$/RocketMQ-Producer/RocketMQ-Producer-Core/RocketMQ-Producer-Core.iml" />
       <module fileurl="file://$PROJECT_DIR$/rocket-01-pre/rocket-01-pre.iml" filepath="$PROJECT_DIR$/rocket-01-pre/rocket-01-pre.iml" />
       <module fileurl="file://$PROJECT_DIR$/rocketMQ-02-test/rocketMQ-02-test.iml" filepath="$PROJECT_DIR$/rocketMQ-02-test/rocketMQ-02-test.iml" />
       <module fileurl="file://$PROJECT_DIR$/rocketMQ-03-cluster/rocketMQ-03-cluster.iml" filepath="$PROJECT_DIR$/rocketMQ-03-cluster/rocketMQ-03-cluster.iml" />
@@ -10,6 +14,7 @@
       <module fileurl="file://$PROJECT_DIR$/rocketMQ-05-Filter/rocketMQ-05-Filter.iml" filepath="$PROJECT_DIR$/rocketMQ-05-Filter/rocketMQ-05-Filter.iml" />
       <module fileurl="file://$PROJECT_DIR$/rocketMQ-07-order/rocketMQ-07-order.iml" filepath="$PROJECT_DIR$/rocketMQ-07-order/rocketMQ-07-order.iml" />
       <module fileurl="file://$PROJECT_DIR$/rocketMQ-08-trans/rocketMQ-08-trans.iml" filepath="$PROJECT_DIR$/rocketMQ-08-trans/rocketMQ-08-trans.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rocketmq-springboot-consumer/rocketmq-springboot-consumer.iml" filepath="$PROJECT_DIR$/rocketmq-springboot-consumer/rocketmq-springboot-consumer.iml" />
     </modules>
   </component>
 </project>

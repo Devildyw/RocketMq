@@ -1,0 +1,28 @@
+server:
+  port: 8082
+
+spring:
+  mail:
+    port: 25
+    host: smtp.163.com
+    username: devildyw2002@163.com
+    default-encoding: UTF-8
+    password: FOPIGFGUIDNPTBMW
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    username: root
+    password: root
+    type: com.alibaba.druid.pool.DruidDataSource
+    url: jdbc:mysql://lovezoe.top:3307/mail?useUnicode=true&useSSL=false&characterEncoding=UTF-8&serverTimeZone=UTC
+rocketmq:
+  name-server: 81.68.186.20:9876
+  producer:
+    group: mailProducer
+  consumer:
+    topic: mail
+mybatis-plus:
+  configuration:
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+
+
+
