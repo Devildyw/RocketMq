@@ -1,0 +1,5 @@
+rocketmq\vo\MailVo.class
+rocketmq\vo\MailParam.class
+rocketmq\dao\entity\MailRecord.class
+rocketmq\message\SendMessage.class
+rocketmq\result\Result.class
